@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\test\rocker\GameRocker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d2355e3212b7ab62787afa867d7e186f6a8775f">
+        <dex dex="D:\test\rocker\GameRocker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d2756e211df1791e840d767a9f80603d3b8a8f89\classes.dex" />
+    </item>
+    <item
+        jar="D:\test\rocker\GameRocker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\test\rocker\GameRocker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_f8c6108b982d7d5cab87c04bd083d24b73a39287\classes.dex" />
+    </item>
+    <item
+        jar="D:\sdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\test\rocker\GameRocker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_1129241b4865db05ceef209fe3b547fd5878e94c\classes.dex" />
+    </item>
+    <item
+        jar="D:\test\rocker\GameRocker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\test\rocker\GameRocker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_c49b3035c0e574e60e90035c8ccee98962104e75\classes.dex" />
+    </item>
+    <item
+        jar="D:\test\rocker\GameRocker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8536d1d97ff89a4ce3ce751492456525be1881b4">
+        <dex dex="D:\test\rocker\GameRocker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_119a734f6984d53deb93638cb647f84a3c8de313\classes.dex" />
+    </item>
+    <item
+        jar="D:\test\rocker\GameRocker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\test\rocker\GameRocker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_7937c83900488e8cd75ef0ffe95f552a34caf46c\classes.dex" />
+    </item>
+
+</items>
